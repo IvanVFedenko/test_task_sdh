@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/test_task_sdh/static/css/main.3de889fa.chunk.css",
+    "main.js": "/test_task_sdh/static/js/main.1a30e075.chunk.js",
+    "main.js.map": "/test_task_sdh/static/js/main.1a30e075.chunk.js.map",
+    "runtime-main.js": "/test_task_sdh/static/js/runtime-main.6cb68df8.js",
+    "runtime-main.js.map": "/test_task_sdh/static/js/runtime-main.6cb68df8.js.map",
+    "static/css/2.a8f9f6a5.chunk.css": "/test_task_sdh/static/css/2.a8f9f6a5.chunk.css",
+    "static/js/2.f8b51ac2.chunk.js": "/test_task_sdh/static/js/2.f8b51ac2.chunk.js",
+    "static/js/2.f8b51ac2.chunk.js.map": "/test_task_sdh/static/js/2.f8b51ac2.chunk.js.map",
+    "index.html": "/test_task_sdh/index.html",
+    "precache-manifest.1d4cd73f27f707f146a6d52e27c8b2e2.js": "/test_task_sdh/precache-manifest.1d4cd73f27f707f146a6d52e27c8b2e2.js",
+    "service-worker.js": "/test_task_sdh/service-worker.js",
+    "static/css/2.a8f9f6a5.chunk.css.map": "/test_task_sdh/static/css/2.a8f9f6a5.chunk.css.map",
+    "static/css/main.3de889fa.chunk.css.map": "/test_task_sdh/static/css/main.3de889fa.chunk.css.map",
+    "static/js/2.f8b51ac2.chunk.js.LICENSE": "/test_task_sdh/static/js/2.f8b51ac2.chunk.js.LICENSE",
+    "static/media/index.css": "/test_task_sdh/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb68df8.js",
+    "static/css/2.a8f9f6a5.chunk.css",
+    "static/js/2.f8b51ac2.chunk.js",
+    "static/css/main.3de889fa.chunk.css",
+    "static/js/main.1a30e075.chunk.js"
+  ]
+}
