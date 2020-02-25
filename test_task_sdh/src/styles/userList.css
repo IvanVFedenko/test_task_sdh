@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover {
+  color: brown;
+  background-color: whitesmoke;
+}
+
+.userList {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid gray;
+  width: 40%;
+  margin: auto;
+  margin-top: 55px;
+}
+
+.userData {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.destroy {
+  width: 30%;
+  align-self: center;
+}
+
+.userData_string {
+  width: 75%;
+  text-align: left;
+  font-size: 14px;
+  font-weight: 600;
+  opacity: 0.8;
+}
+
+.userData_name {
+  font-size: 12px;
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.newUserButton {
+  background-color: white;
+  height: 40px;
+  width: 40%;
+  position: fixed;
+  z-index: 2;
+  left: 30%;
+  top: 10px;
+}
+
+.newUserLink {
+  text-decoration: none;
+  color: brown;
+}
