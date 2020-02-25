@@ -82,10 +82,10 @@ const NewUserPresentation = (props) => {
             <div>
               <select
                 id="select"
-                required={true}
+                required
                 className="gender"
                 onChange={handleChangeGender}
-                defaultValue="Choose users gender"
+                // defaultValue="Choose users gender"
               >
                 <option disabled>Choose users gender</option>
                 <option value="male">Male</option>

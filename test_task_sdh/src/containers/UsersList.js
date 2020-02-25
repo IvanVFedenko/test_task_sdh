@@ -16,7 +16,7 @@ const UsersList = (props) => {
   const { setUsersThunk, users } = props;
   useEffect(() => {
     setUsersThunk();
-  });
+  }, []);
 
   const handleDelete = (id) => {
     axios
